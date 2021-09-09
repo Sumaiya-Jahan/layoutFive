@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+
+    background-color: salmon;
+    text-align: center;
+
+
+}
+
+.path{
+ background-color: seagreen;
+ text-align: center;
+ height: 70px;
+}
+
+.docktop{
+    background-color: skyblue;
+    text-align: center;
+
+}
+
+.blog{
+    overflow: hidden;
+    background-color: tomato;
+    text-align: center;
+    height: 450px;
+
+}
+
+
+.blog1{
+
+    background-color:mediumorchid;
+    width: 20%;
+    float: left;
+    height: 100%;
+}
+
+.blog2{
+
+    background-color: lightpink;
+    width: 60%;
+    float: left;
+    height: 100%;
+
+}
+
+.error{
+    background-color: lightpink;
+    width: 100%;
+    height: 20%
+
+
+}
+
+.content{
+    background-color:crimson;
+    width: 100%;
+    height: 80%;
+
+}
+
+.blog3{
+    background-color:mediumorchid;
+    width: 20%;
+    float: left;
+    height: 100%;
+}
+
+.dockbottom{
+    background-color: yellow;
+    text-align: center;
+
+}
+
+footer{
+    background-color: chartreuse;
+    text-align: center;
+
+}
